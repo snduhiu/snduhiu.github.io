@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Shirleen Nduhiu"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "assets/images/IMG_20240421_083648.jpg"
   bio    : "Cloud and Network Security | Game Developer"
   links:
    #- label: "Website"
