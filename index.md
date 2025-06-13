@@ -5,7 +5,7 @@ author_profile: true
 [//]: # (header:)
 [//]: #  (overlay_image: /assets/images/your-photo.jpg  # Replace with the correct path to your uploaded image)
 [//]: #  (caption: "Cloud Security | Game Developer")
-
+---
 
 Hi, I’m **Shirleen Nduhiu** — a passionate game developer and cloud security enthusiast with a background in Mathematics and Computer Science. I love building games that blend fun with function, and I’m continuously growing in areas like DevOps and cloud technologies.
 
