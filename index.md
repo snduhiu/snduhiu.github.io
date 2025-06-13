@@ -7,7 +7,7 @@ author_profile: true
 [//]: #  (caption: "Cloud Security | Game Developer")
 ---
 
-Passionate game developer and cloud security enthusiast with a background in Mathematics and Computer Science. I love building games that blend fun with function, and I’m continuously growing in areas like Cloud technologies and security.
+Hi! I'm a cloud security enthusiast and passionate game developer with a background in Mathematics and Computer Science. I love building games that blend fun with function, and I’m continuously growing in areas like Cloud technologies and security.
 
 ---
 
